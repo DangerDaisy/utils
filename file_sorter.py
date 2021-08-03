@@ -5,7 +5,7 @@ import os
 import shutil
 import sys
 
-# Creates a single folder '0-9' instead of giving eacht number its own folder
+# Creates a single folder '0-9' instead of giving each number its own folder
 group_numbers_together = True
 
 folder_to_sort = ""
